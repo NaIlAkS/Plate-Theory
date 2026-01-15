@@ -11,8 +11,7 @@ pipeline {
         stage('Deploy Container') {
             steps {
                 sh '''
-                docker stop vite-container || true
-                docker rm vite-container || true
+                docker rm -f vite-container || true
                 docker run -d -p 8081:80 --name vite-container vite-app
                 '''
             }
