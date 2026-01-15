@@ -7,7 +7,7 @@ const App = () => {
   const menuItems = [
     {
       id: 1,
-      name: "Artisan Pepperoni Pizza",
+      name: "Chicken Tandoori Pizza",
       price: "$14.99",
       img: "https://www.tasteofhome.com/wp-content/uploads/2025/03/48-Homemade-Pizza-Recipes_FT23_376_EC_120123_1_FT.jpg",
       tag: "Best Seller"
