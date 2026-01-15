@@ -8,28 +8,28 @@ const App = () => {
     {
       id: 1,
       name: "Chicken Tandoori Pizza",
-      price: "$14.99",
+      price: "₹14.99",
       img: "https://www.tasteofhome.com/wp-content/uploads/2025/03/48-Homemade-Pizza-Recipes_FT23_376_EC_120123_1_FT.jpg",
       tag: "Best Seller"
     },
     {
       id: 2,
       name: "Classic Steakhouse Burger",
-      price: "$12.50",
+      price: "₹12.50",
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOX2YyS0W1LnrD5eyd-7Q9kvO1JGvE80AXXA&s",
       tag: "Trending"
     },
     {
       id: 3,
       name: "Traditional Chicken Mandi",
-      price: "$18.00",
+      price: "₹18.00",
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCmkmf2VERcbMJfqfJW--XOzN42DA4QEXefQ&s",
       tag: "Chef's Special"
     },
     {
       id: 4,
       name: "Velvet Chocolate Cake",
-      price: "$8.99",
+      price: "₹8.99",
       img: "https://www.tasteofhome.com/wp-content/uploads/2017/09/exps21585_THCA153054D10_15_4b.jpg",
       tag: "Sweet Treat"
     }
