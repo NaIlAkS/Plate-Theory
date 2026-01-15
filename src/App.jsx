@@ -258,7 +258,7 @@ const App = () => {
 
       {/* FOOTER */}
       <footer className="footer">
-        <p>© 2026 Plate Theory | Exclusive Sandra Sponsorship</p>
+        <p>© 2026 Plate Theory | Exclusive Sandra Sponsorship , website created by Naila</p>
         <div style={{ display: 'flex', justifyContent: 'center', gap: '20px', marginTop: '10px' }}>
           <small><Clock size={12} /> 15 min Delivery</small>
           <small><Flame size={12} /> Hot & Fresh</small>
