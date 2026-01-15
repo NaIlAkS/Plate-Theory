@@ -206,7 +206,7 @@ const App = () => {
         >
           <span className="sponsor-badge">Sandra Sponsored</span>
           <h1>Gourmet Flavors,<br/>Fast Delivery.</h1>
-          <p>The Plate Theory brings you world-class cuisine made with locally sourced ingredients.</p>
+          <p>The Plate Theory brings you world-class cuisine made with locally sourced magic ingredients.</p>
           <motion.button 
             whileHover={{ scale: 1.1 }}
             whileTap={{ scale: 0.9 }}
